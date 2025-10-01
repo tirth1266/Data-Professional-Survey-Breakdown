@@ -31,8 +31,10 @@ This project features an interactive Power BI dashboard that analyses a survey c
     * Open the `Data Professional Survey Breakdown.pbix` file.
 3.  **Interact with the Dashboard:**
     * Use the slicers and filters to explore the data from different angles.
-      ##  sneak Peek
+      
 
-## Here's a sneak peek of the main dashboard page:
+## 🫣 sneak Peek
 
-![Dashboard Sneak Peek](https://storage.googleapis.com/maker-media-project-files-prod/user_files/2a2a07c0-a7d5-45d4-811c-c2b64a13f631/Sneak%20Peek%20.png)
+Here's a sneak peek of the main dashboard page:
+
+![Dashboard Sneak Peek](https://github.com/tirth1266/Data-Professional-Survey-Breakdown/blob/main/Sneak%20Peek%20.png)
